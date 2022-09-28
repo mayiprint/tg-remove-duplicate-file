@@ -1,5 +1,5 @@
 # Remove Duplicate File in TG
-這是一個針對Telegram群組中轉傳的重複檔案進行刪除的專案。
+針對Telegram群組中轉傳重複檔案進行刪除的專案。
 
 **文章：** https://blog.ipv4.site/posts/tg-remove-duplicate-file
 
